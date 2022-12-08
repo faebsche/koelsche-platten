@@ -1,5 +1,7 @@
 # Kölsche Platten -- Meen leeve joot, geh doch mal woanders Spielen!
+
 Testen von Kartenansichten:  https://plnkr.co/edit/?p=preview&preview
+
 Erweiterungen und Maptiles: https://leaflet-extras.github.io/leaflet-providers/preview/
 
 Offene Daten für Köln: 
